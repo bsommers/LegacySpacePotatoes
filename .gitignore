@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Python virtual environment & cache
+pygame_version/venv/
+pygame_version/__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
